@@ -5,10 +5,6 @@
 Designed a highly available 3-Tier Architecture on AWS using
 Web, Application, and Database tiers.
 
-## Architecture
-
-![AWS 3-Tier Architecture](architecture-diagram.png)
-
 ## AWS Services Used
 
 - Amazon VPC
